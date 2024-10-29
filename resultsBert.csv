@@ -1,0 +1,2 @@
+,avg_beam_f1,avg_beam_p,avg_beam_r,avg_greedy_f1,avg_greedy_p,avg_greedy_r,avg_topk_f1,avg_topk_p,avg_topk_r,avg_topp_f1,avg_topp_p,avg_topp_r
+Average BERT Scores,0.846164167,0.911702931,0.921484411,0.846164167,0.911702931,0.921484411,0.846164167,0.911702931,0.921484411,0.846164167,0.911702931,0.921484411
